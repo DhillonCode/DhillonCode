@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhillonCode
-- 👀 I’m interested in learning  data science
+- 👀 I’m interested in learning  data management
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: i am in class 8 and trying to create my math book in python 
